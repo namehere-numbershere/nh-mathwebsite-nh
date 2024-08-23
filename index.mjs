@@ -1,4 +1,4 @@
-import createServer from '@tomphttp/bare-server-node';
+/* import createServer from '@tomphttp/bare-server-node';
 import http from 'http';
 import nodeStatic from 'node-static';
 const port = process.env.PORT || 8080;
@@ -29,3 +29,4 @@ server.listen({
 });
 
 console.log(`Listening on http://localhost:${port}`)
+*/
