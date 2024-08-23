@@ -1,4 +1,4 @@
 <head></head>
 <body>
-  <a href="rindex.html"> real </a>
+  <a href="rindex.php"> real </a>
 </body>
