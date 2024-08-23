@@ -1,4 +1,8 @@
 <head></head>
 <body>
-  <a href="rindex.php"> real </a>
+  <p> Username: </p>
+  <input id="user"> </input>
+  <p> Password: </p>
+  <input id="pass"> </input>
+  <button id="submit"> Submit </button>
 </body>
