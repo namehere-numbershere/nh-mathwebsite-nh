@@ -7,3 +7,6 @@
   <button id="submit"> Submit </button>
   <script src="global.mjs"> </script>
 </body>
+<?php 
+echo "E";
+?>
