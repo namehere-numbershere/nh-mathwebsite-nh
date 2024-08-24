@@ -8,5 +8,5 @@
   <script> console.log("E") </script>
 </body>
 <?php 
-echo "E"
+echo "<p> TEST </p>";
 ?>
