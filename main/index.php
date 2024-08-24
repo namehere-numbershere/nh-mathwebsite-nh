@@ -5,8 +5,8 @@
   <p> Password: </p>
   <input id="pass"> </input>
   <button id="submit"> Submit </button>
-  <script src="global.mjs"> </script>
+  <script> console.log("E") </script>
 </body>
 <?php 
-echo "E";
+echo "E"
 ?>
